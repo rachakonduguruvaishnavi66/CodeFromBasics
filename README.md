@@ -85,7 +85,7 @@ Loop Control & Logic (7–10)
 
 11. Print the following pattern for N = 5
 
-\*
+*
 \**
 \*** 
 \**** 
@@ -94,11 +94,11 @@ Loop Control & Logic (7–10)
 
 12. Print the following pattern
 
-\*****
+*****
 \****
 \***
 \**
-\*
+*
 
 
 13. Print the following pattern
