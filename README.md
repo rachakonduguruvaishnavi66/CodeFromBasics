@@ -129,10 +129,10 @@ Loop Control & Logic (7–10)
 
 16. Print the following pattern
 
-\  *
-\  **
-\ ***
-\****
+    *
+   **
+  ***
+ ****
 
 
 17. Print the following pattern
