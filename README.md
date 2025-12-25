@@ -128,7 +128,7 @@ Loop Control & Logic (7–10)
               Pattern Printing – Slightly Tricky (16–20)
 
 16. Print the following pattern
-   *
+   \*
   \**
  \***
 \****
@@ -136,8 +136,8 @@ Loop Control & Logic (7–10)
 
 17. Print the following pattern
 
-\ *
-\ ***
+\*
+\***
 \*****
 \*******
 
