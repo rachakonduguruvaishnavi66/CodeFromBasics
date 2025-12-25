@@ -85,7 +85,7 @@ Loop Control & Logic (7–10)
 
 11. Print the following pattern for N = 5
 
-*
+\*
 \**
 \*** 
 \**** 
@@ -98,7 +98,7 @@ Loop Control & Logic (7–10)
 \****
 \***
 \**
-*
+\*
 
 
 13. Print the following pattern
@@ -119,28 +119,28 @@ Loop Control & Logic (7–10)
 
 15. Print the following pattern
 
-*
-**
-***
-**
+\*
+\**
+\***
+\**
 *
 
               Pattern Printing – Slightly Tricky (16–20)
 
 16. Print the following pattern
 
-   *
-  **
- ***
-****
+ \  *
+\  **
+\ ***
+\****
 
 
 17. Print the following pattern
 
-   *
-  ***
- *****
-*******
+  \ *
+ \ ***
+ \*****
+\*******
 
 
 18. Print the following pattern
